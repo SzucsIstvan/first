@@ -1,2 +1,2 @@
-const WsSelectBox = require("./components/WsSelectBox");
+import WsSelectBox from "./components/WsSelectBox";
 export default WsSelectBox;
